@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.npm/
+
+# Build artifacts
+dist/
+build/
+*.html # Since index.html is generated
+
+# OS
+.DS_Store
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Misc
+.env
+.env.local
+.DS_Store
